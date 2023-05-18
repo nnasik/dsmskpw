@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838004133870",
+    "project_id": "dsms-6ccd8",
+    "storage_bucket": "dsms-6ccd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838004133870:android:77a41bb7cca427432808ff",
+        "android_client_info": {
+          "package_name": "com.dsms.kpw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838004133870-4aq6t8iifuqfe19du5tnibhihduid9jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJMs_5r1cPEzDTiJVYJh15juZoEBBh8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838004133870-4aq6t8iifuqfe19du5tnibhihduid9jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
